@@ -2,7 +2,9 @@
 feedweave-improvement
 
 ## Summary:
-[FEEDweave](https://feedweave.co) is an MVP decentralized social network built on top of Arweave that needs more functionality.
+[FEEDweave](https://feedweave.co) is a decentralized social network built on top of Arweave.
+
+FEEDweave needs more functionality to offer a competitive user experience to existing social networks, such as ability to edit posts, comments, and upvotes.
 
 ## Motivation:
 The goal of FEEDweave is to demonstate the power of Arweave as a backend for decentralized social applications.
@@ -12,7 +14,7 @@ nature of Arweave to encourage ecosystem participants to contribute to building 
 
 FEEDweave has been architected from composable components that can be reused by other applications on top of Arweave. 
 
-The goal of FEEDweave is to both serve as a fully functioning social network for early adopters in the Arweave community,
+The goal of FEEDweave is to serve as a fully functioning social network for early adopters in the Arweave community,
 the broader crypto community, and eventually mainstream users.
 
 Components built for FEEDweave will serve as a demonstration of how to build other applications similar to it on top of Arweave.
