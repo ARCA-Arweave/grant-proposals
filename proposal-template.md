@@ -32,5 +32,7 @@ for e.g.
 
 Total grant budget = Total hours * z DAI per hour + (...)
 
+You can also ask for total budget without details.
+
 ## Ethereum Address:
 Please add an eligible Ethereum wallet address you'd like the funds sent to.
