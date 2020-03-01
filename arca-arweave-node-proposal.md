@@ -103,4 +103,5 @@ Total for phase 1: $615 or 615 DAI
 
 The first phase of ARCA Arweave Node will operate for 3 months, and determine the community benefits and whether or not it is worthwhile to continue hosting.  Other server hosting options can also be looked at as well to ensure ARCA gets the best resources at the most competitive price.
 
+Funding Address: 0x26B751183814E6BA865c1B65BC00ab4d5501CE8C
 
