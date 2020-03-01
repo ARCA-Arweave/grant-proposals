@@ -1,5 +1,5 @@
 # Proposal name: ARCA Arweave Node
-# Authors : Vilenarios
+### Authors : Vilenarios
 ## Summary: 
 Host an official ARCA Arweave node and enable Gateway, IPFS Bridge and potentially mining to support internal and community initiatives. Specifically, a Gateway provides opportunities for ARCA development and further decentralizes the Arweave network by providing the second public Gateway service. 
 
