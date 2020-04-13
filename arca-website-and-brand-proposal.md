@@ -7,7 +7,7 @@ ARCA Website & Branding Proposal
 ARCA has grown, and a number of initiatives have reached completion / are underway.<br>
 We need a central online location to showcase the results of our efforts and further promote our org.
 
-**This proposal will outline requirements for :**<br>
+**This proposal will outline requirements for :**<br><br>
 The creation of an impactful brand emblem. <br>
 The Design of a website to promote ARCA.<br>
 Initial features to be included on the website.<br>
@@ -20,9 +20,10 @@ Funding Plan for above.<br>
 Based on input from the ideation document.
 
 **Design work will be delegated to 99 designs.com**<br>
-99designs is a platform where you hold competitions, with a certain $value as a bounty.<br> Contestants apply with a mock-up or a riff on your branding specifications and the winner, who you choose is contracted to fufil the remainder of the brief.<br>
+99designs is a platform where you hold competitions, with a certain $value as a bounty.<br> 
+Contestants apply with a mock-up or a riff on your branding specifications and the winner, who you choose is contracted to fufil the remainder of the brief.<br>
 
-**Development** 
+**Development** <br>
 Project bootstrapping, and Arweave dapp data-model level decisions that need to be made for the form posting / viewing elements of the website.
 
 Forms will be posted using DPOST
