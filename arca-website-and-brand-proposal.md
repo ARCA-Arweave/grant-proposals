@@ -67,7 +67,8 @@ Mission/Vision of ARCA<br>
 1. Health check of perma.online<br>
 On the website landing there'll be a small colored circle for ARCA GATEWAY reflecting the node status. Clicking on this will bring the user to the Gateway page for a deeper drill down on metrics & project history.<br>
 
-2. DPOST - Permasnap has laid some good foundations for this - some small modifications will need to be made to the code for it to work with other Arweave Apps. These modifications are included in the budget (Benji) <br>
+2. DPOST (Delegated Posting, allows a user to 'delegate' posting of a transaction to arweave to a third party while still being able to prove ownership of the transaction.) <br>
+Permasnap development has laid some good foundations for this - some modifications will need to be made to the code for it to work with other Arweave Apps. These modifications are included in the budget (Benji) <br>
 Modifications needed are : generalisation of code to accomodate any arweave app, currently it's got permasnap-specific references which will need to be changed.
 
 3. Forms
