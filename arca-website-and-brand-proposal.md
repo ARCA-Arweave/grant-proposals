@@ -55,13 +55,24 @@ The website will initially be a one page design displaying the following informa
 A minimal, clean design will be requested.<br>
 
 ## Initial Features<br>
-Team Roster<br>
-Projects<br>
+Team Roster<br> *An introduction to the members of ARCA*
+Projects<br> *detailed list of the projects ARCA has funded, each project will have its own page Permasnap, Feedweave, Gateway*
+Tooling<br> *A detailed list of the various tooling projects which ARCA has funded DPOST (part of permasnap so far), Reverse DNS*
 Membership & Grant Forms (can be posted to Arweave using DPOST, with some modifications.)<br>
 Social media / GitHub links.<br>
 Mission/Vision of ARCA<br>
-Health check of perma.online<br>
 <br>
+
+## Integrations
+1. Health check of perma.online<br>
+On the website landing there'll be a small colored circle for ARCA GATEWAY reflecting the node status. Clicking on this will bring the user to the Gateway page for a deeper drill down on metrics & project history.<br>
+
+2. DPOST - Permasnap has laid some good foundations for this - some small modifications will need to be made to the code for it to work with other Arweave Apps. These modifications are included in the budget (Benji) <br>
+Modifications needed are : generalisation of code to accomodate any arweave app, currently it's got permasnap-specific references which will need to be changed.
+
+3. Forms
+Membership + Grant Application forms will be built & use ARweave as a backend. These forms will use DPOST.
+
 ## Timeline<br>
 3 weeks for designs.<br>
 Initial project bootstrapping and data-design can be done concurrently.<br>
