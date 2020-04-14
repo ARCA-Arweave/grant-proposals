@@ -79,7 +79,7 @@ Here's a non-exhaustive list of worthwhile follow-ups to the work described abov
 
 1. Add a blog or news feed. (feedweave or scribe could potentitally be used to post content to a site's blog)
 2. A forum could also be a worthwhile addition.
-3. Development spotlights, covering topics like how to use DPOST / how to integrate it into your DAPP, tutorials on how permaweb can be used as an alternative to legacy web2 internet systems.
+3. Development spotlights, covering topics like how to use DPOST / how to integrate it into your DAPP, tutorials on how permaweb can be used as an alternative to legacy web2 systems.
 
 ## Timeline<br>
 3 weeks for designs.<br>
