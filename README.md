@@ -7,5 +7,6 @@ ARCA Dev Grants is for:
 
 If you have any questions, please ask them!
 
-File an issue in this repo
+File an issue in this repo - N.B. Please do not delete, rename, or otherwise alter the proposal-template.md, thanks!
+
 Ask on our discord channel: https://discordapp.com/channels/357957786904166400/669607443130482698
