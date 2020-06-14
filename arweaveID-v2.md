@@ -1,14 +1,16 @@
 ## Proposal name: ArweaveID V2
 Author: acolytec3, Ros
 
-## Motivation: ArweaveID V1 is a great concept for providing a standard way to manage a identity on Arweave but has several shortcomings, 
+## Motivation: 
+ArweaveID V1 is a great concept for providing a standard way to manage a identity on Arweave but has several shortcomings, 
 including lack of avatar support, misleading "Unix Time" field that can easily be spoofed, and no standardized library for creating/updating 
 ArweaveID fields.
 
 What is needed is a standardized, efficient way of creating and Updating ArweaveID records that also ensures that name uniqueness is preserved
 and attempted name-stealing disregarded.
 
-## Specification: ArweaveID V2 (hereafter V2) will revise the current transaction spec to include all ID fields (name, email, ethereum address, twitter
+## Specification: 
+ArweaveID V2 (hereafter V2) will revise the current transaction spec to include all ID fields (name, email, ethereum address, twitter
 and discord) in transaction tags rather than transaction data to allow for efficient retrieval via GraphQL interface as well as abstract id lookup/posting 
 and add support for a new avatar field.
 
