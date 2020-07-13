@@ -29,6 +29,7 @@ The first stage will set the ground work for the database and basic web layers f
 * Node and gateway runners will be able to get weave data much easier in zipped chunks. This should help the torrent as well, because all previous data can be reused, and newer data can be added on top of existing.
 * A GraphQL endpoint will be created for extra queries (right now arql is very limited)
   * Extra queries to include owner, target,fee, amount, time stamps, tx ids.  
+* Testing will be performed by @Rehash with help from @vilenarios and ARCA when needed.  It is expected all delivered tools will work in a given production environment.
 * All tools will be open sourced and step by step documentation to install the gateway, rebuild the DB and run the tools will be provided.
 * Server specifications to be determined.
 
@@ -49,13 +50,15 @@ The first stage will set the ground work for the database and basic web layers f
 
 ====Timeline====
 
-3-4 weeks
+3-4 weeks to develop and test all Stage 1 features.
+
+ARCA can deploy the v1 of the software after it has been fully committed to the ARCA Community Apps github.
 
 ====Grant requested (DAI)====
 
 1850 for Stage 1 + 500 for the GraphQL new queries that will be based on what new types ARCA/Arweave devs need.
 
-2350 DAI Total
+2350 DAI Total for delivery of all Stage 1 features
 
 ====Ethereum Address====
 
