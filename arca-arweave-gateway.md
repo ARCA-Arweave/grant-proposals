@@ -17,7 +17,7 @@ Arweave Gateways act as the front door to the Permaweb, in a sense that they ser
 
 ====Specification====
 
-'''Stage 1 '''
+'''Stage 1 ''' COMPLETED
 
 The first stage will set the ground work for the database and basic web layers for the new Arweave Gateway node.  It will leverage NodeJS and/or Python3.  MongoDB will be used as the database, which is well suited for Arweave's JSON files. At a high level, the gateway will pull block and transaction information from full Arweave nodes.  It will then optimize and serve this data for the broad usage of ARCA and the Arweave community.
 
@@ -36,7 +36,9 @@ The first stage will set the ground work for the database and basic web layers f
 '''Stage 2'''
 
 * Full Gateway features, like friendly transaction naming (similar to current gateway) and transaction uploading.
-* Block Explorer. Having the data stored on the gateway it makes sense to have a block explorer as well. 
+* Large transaction support
+* GraphQL Schema support
+* Solve compatiability issues with graphql with arweave-js
 ''Details TBA''
 
 '''Stage 3'''
@@ -50,15 +52,15 @@ The first stage will set the ground work for the database and basic web layers f
 
 ====Timeline====
 
-3-4 weeks to develop and test all Stage 1 features.
+3 weeks to develop and test all Stage 1 features.
 
-ARCA can deploy the v1 of the software after it has been fully committed to the ARCA Community Apps github.
+ARCA can deploy the v2 of the software after it has been fully committed to the ARCA Community Apps github.
 
 ====Grant requested (DAI)====
 
-1850 for Stage 1 + 500 for the GraphQL new queries that will be based on what new types ARCA/Arweave devs need.
+1850 for Stage 1 + 500 for the GraphQL new queries that will be based on what new types ARCA/Arweave devs need, 2350 DAI Total for delivery of all Stage 1 features (COMPLETED)
 
-2350 DAI Total for delivery of all Stage 1 features
+1420 DAI For Stage 2 features
 
 ====Ethereum Address====
 
