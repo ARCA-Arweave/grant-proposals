@@ -1,5 +1,5 @@
 ## Proposal name: 
-armob-2.0
+armob-2.0 - Phase 1
 
 ## Summary:
 A mobile-friendly, offline-first, progressive web app providing full Arweave wallet functionality, transaction history, and ability to interact with Smartweave contracts, PSTs, and PSCs
@@ -38,7 +38,7 @@ Previous work -
 - Multi-wallet support - 1 week
 
 ## Grant requested (DAI):
-1200 DAI
+1500 DAI
 
 ## Ethereum Address:
 0xBcAfdD642118e5536024675e776d32413728dd08
