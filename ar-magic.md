@@ -15,10 +15,10 @@ Also, querying for infinite responses and pagination isn't straight forward, thi
 ## Specification:
 
 - `query()` - Function to query the Arweave GQL endpoint.
-  - Takes in GQL query and optional variables.
+  - Takes in a GQL query and optional variables.
 - `all()` - Function to grab **all** results for a specific GQL query.
   - Parses all pages returned.
-- `paginate()` - Function for infinate loading on sites.
+- `paginate()` - Function for infinite loading on sites.
 
 Suggestion by [Ros](https://github.com/mcmonkeys1):
 - `post()` - Function that posts an Arweave tx and automatically resends it if failed.
