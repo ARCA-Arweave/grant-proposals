@@ -1,14 +1,14 @@
-## Proposal Name: `arMagic`
+## Proposal Name: `arGQL`
 
 ## Summary:
 
-A JavaScript/TypeScript package that makes interaction with the Arweave network painless and simple.
+A JavaScript/TypeScript package that makes interaction with the Arweave GraphQL endpoint simple and easy.
 
 ## Motivation:
 
 With the launch of the [Arweave GQL Endpoint](https://arweave.net/graphql), there doesn't exist a simple way to interact with it in a JS/TS project.
 
-I myself have implemented functions, and copy-n-paste them throughout my projects - but it would be extremely nice to have a generic function I can just import.
+I myself have implemented functions, but it would be extremely nice to have a generic function I can just import.
 
 Also, querying for infinite responses and pagination isn't straight forward, this library would take care of that.
 
@@ -19,11 +19,6 @@ Also, querying for infinite responses and pagination isn't straight forward, thi
 - `all()` - Function to grab **all** results for a specific GQL query.
   - Parses all pages returned.
 - `paginate()` - Function for infinite loading on sites.
-
-Suggestion by [Ros](https://github.com/mcmonkeys1):
-- `post()` - Function that posts an Arweave tx and automatically resends it if failed.
-
-... plus any more functions that are needed ...
 
 ## Team:
 
@@ -38,7 +33,7 @@ John Letey ([@johnletey](https://github.com/johnletey)):
 
 ## Grant Requested (DAI):
 
-100 DAI
+200 DAI (currently ~150 GBP)
 
 ## Ethereum Address:
 
