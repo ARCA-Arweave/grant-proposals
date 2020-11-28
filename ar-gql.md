@@ -1,5 +1,7 @@
 ## Proposal Name: `arGQL`
 
+[![Version](https://img.shields.io/npm/v/ar-gql?style=flat&colorA=000000&colorB=000000)](https://www.npmjs.com/package/ar-gql)
+
 ## Summary:
 
 A JavaScript/TypeScript package that makes interaction with the Arweave GraphQL endpoint simple and easy.
@@ -14,18 +16,21 @@ Also, querying for infinite responses and pagination isn't straight forward, thi
 
 ## Specification:
 
-- `query()` - Function to query the Arweave GQL endpoint.
+- `run()` - Query the Arweave GQL endpoint.
   - Takes in a GQL query and optional variables.
-- `all()` - Function to grab **all** results for a specific GQL query.
+- `all()` - Retrieve **all** results for a specific GQL query.
   - Parses all pages returned.
-- `paginate()` - Function for infinite loading on sites.
+- `tx()` - Retrieve all information about a specific Arweave transaction.
+  - Significantly faster than `arweave.transactions.get()`
+- `fetchTxTag()` - Retrieve the value of a specific Arweave transaction tag (if it exists).
 
 ## Team:
 
 John Letey ([@johnletey](https://github.com/johnletey)):
 
+- CTO @ [th8ta](https://th8ta.org).
 - Co-Founder of [Verto](https://verto.exchange).
-- Development Lead @ [ArVerify](https://github.com/ArVerify).
+- Development Lead & Co-Founder [ArVerify](https://github.com/ArVerify).
 
 ## Timeline:
 
