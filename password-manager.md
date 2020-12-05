@@ -14,6 +14,8 @@ Storing your passwords for your applications in a manner where only you can see 
 
 And a secure and simple way to share a password :heart_eyes:
 
+P.S. Want to see how secure it is? Here's a transaction: [`PbJi8TvhCNSExSMrilbSuL7orwF_zWwj7Zl3-ct45yU`](https://viewblock.io/arweave/tx/PbJi8TvhCNSExSMrilbSuL7orwF_zWwj7Zl3-ct45yU). Try and read the data!
+
 ## Specification:
 
 | Dashboard | Modal |
